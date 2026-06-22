@@ -1,0 +1,5 @@
+Faculty|Ashu-112|Ashutosh|4523|0
+Student|STU-101|Anurag|212121|2
+Student|STU-111|Hitesh|234234|0
+Student|STU-102|King|231231|0
+Librarian|f101|Ram|1234|0
